@@ -129,7 +129,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [50, 50, 50],
-		"innerColor": [222, 200, 55],
+		"innerColor": [114, 222, 55],
 		"cities": ["Cape Town"]
 	},
 	{
@@ -141,7 +141,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "The day of judgement has come to us. But rest assured, the same will go for you!",
 		"outerColor": [50, 50, 50],
-		"innerColor": [222, 200, 55],
+		"innerColor": [114, 222, 55],
 		"cities": ["Helsinki"]
 	},
 	{
@@ -153,7 +153,171 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Ah, Gods! Why have you forsaken us?",
 		"outerColor": [50, 50, 50],
-		"innerColor": [222, 200, 55],
+		"innerColor": [114, 222, 55],
 		"cities": ["Manila"]
+	},
+	{
+		"name": "Mogadishu", // Don't Introduced in BNW but Alpha Frontier is no Introduced.
+		"adjective": ["Maqdishawi"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Mogadishu"]
+	},
+	{
+		"name": "Mombasa",
+		"adjective": ["Mombasaan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Mombasa"]
+	},
+	{
+		"name": "Quebec City",
+		"adjective": ["Québécois"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Quebec City"]
+	},
+	{
+		"name": "Ragusa",
+		"adjective": ["Ragusan"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Ragusa"]
+	},
+	{
+		"name": "Rio de Janeiro",
+		"adjective": ["Carioca"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
+		"attacked": "You can see how fruitless this will be for you... right?",
+		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Rio de Janeiro"]
+	},
+	{
+		"name": "Sydney",
+		"adjective": ["Sydneysider"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
+		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Sydney"]
+	},
+	{
+		"name": "Ur", // Don't Introduced in BNW but Alpha Frontier is no Introduced.
+		"adjective": ["Urian"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
+		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",
+		"defeated": "What treachery has struck us? No, what evil?",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Ur"]
+	},
+	{
+		"name": "Vancouver", // Don't Introduced in BNW but Alpha Frontier is no Introduced.
+		"adjective": ["Vancouverite"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"defeated": "I regret not defending my country to the last, although it was not of use.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Vancouver"]
+	},
+	{
+		"name": "Venice",
+		"adjective": ["Venetian"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You have revealed your purposes a bit too early, my friend...",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "A wrong calculation, on my part.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Venice"]
+	},
+
+	
+	{
+		"name": "Antwerp",
+		"adjective": ["Antwerpenaar", "Antwerpian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["Antwerp"]
+	},
+	{
+		"name": "Cahokia",
+		"adjective": ["Cahokian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["Cahokia"]
+	},
+	{
+		"name": "Colombo",
+		"adjective": ["Colomboan"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["Colombo"]
+	},
+	{
+		"name": "Genoa",
+		"adjective": ["Genoese"],
+		"cityStateType": "Mercantile", // Changed from Maritime to Mercantile in GK but in Alpha Frontier is no.
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["Genoa"]
 	}
 ]
