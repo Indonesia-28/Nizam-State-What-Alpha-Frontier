@@ -1,38 +1,62 @@
 [
-  {
-	"name": "Brussels",
-	"adjective": ["Bruxellois"],
-	"cityStateType": "Cultured",
+  	{
+		"name": "Brussels",
+		"adjective": ["Bruxellois"],
+		"cityStateType": "Cultured",
 
-	"declaringWar": "You leave us no choice. War it must be.",
-	"attacked": "Very well, this shall not be forgotten.",
-	"defeated": "I guess you weren't here for the sprouts after all...",
-	"outerColor": [50, 50, 50],
-	"innerColor": [197, 55, 222],
-	"cities": ["Brussels"]
-    },
-	{
-	"name": "Bucharest",
-	"adjective": ["Bucuresti"],
-	"cityStateType": "Cultured",
-
-	"declaringWar": "You leave us no choice. War it must be.",
-	"attacked": "Very well, this shall not be forgotten.",
-	"defeated": "I guess you weren't here for the sprouts after all...",
-	"outerColor": [50, 50, 50],
-	"innerColor": [197, 55, 222],
-	"cities": ["Bucharest"]
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Brussels"]
 	},
 	{
-	"name": "Florence",
-	"adjective": ["Florentine"],
-	"cityStateType": "Cultured",
+		"name": "Bucharest",
+		"adjective": ["Bucuresti"],
+		"cityStateType": "Cultured",
 
-	"declaringWar": "You leave us no choice. War it must be.",
-	"attacked": "Very well, this shall not be forgotten.",
-	"defeated": "And so the flower of Florence falls to barbaric hands...",
-	"outerColor": [50, 50, 50],
-	"innerColor": [197, 55, 222],
-	"cities": ["Florence"]
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Bucharest"]
+	},
+	{
+		"name": "Florence",
+		"adjective": ["Florentine"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "And so the flower of Florence falls to barbaric hands...",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Florence"]
+	},
+	{
+		"name": "Kabul",
+		"adjective": ["Kabuli"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Kabul"]
+	},
+	{
+		"name": "Kathmandu",
+		"adjective": ["Kathmanduites"],
+		"cityStateType": "Religious", // Changed from Cultured to Religious in BNW but in Alpha Frontier, Like BNW Changed from Cultured to Religious.
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Kathmandu"]
 	}
 ]
