@@ -2,7 +2,7 @@
   	{
 		"name": "Brussels",
 		"adjective": ["Bruxellois"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -14,7 +14,7 @@
 	{
 		"name": "Bucharest",
 		"adjective": ["Bucuresti"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -26,7 +26,7 @@
 	{
 		"name": "Florence",
 		"adjective": ["Florentine"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -38,7 +38,7 @@
 	{
 		"name": "Kabul",
 		"adjective": ["Kabuli"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -62,7 +62,7 @@
 	{
 		"name": "Kuala Lumpur",
 		"adjective": ["KLite"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -74,7 +74,7 @@
 	{
 		"name": "Milan",
 		"adjective": ["Milanese"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -86,7 +86,7 @@
 	{
 		"name": "Monaco",
 		"adjective": ["Monegasque"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -98,7 +98,7 @@
 	{
 		"name": "Prague",
 		"adjective": ["Praguer", "Pragueite"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -110,7 +110,7 @@
 	{
 		"name": "Yerevan",
 		"adjective": ["Yerevantsi"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Cultural",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
