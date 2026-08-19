@@ -10,5 +10,29 @@
 	"outerColor": [50, 50, 50],
 	"innerColor": [197, 55, 222],
 	"cities": ["Brussels"]
-    }
+    },
+	{
+	"name": "Bucharest",
+	"adjective": ["Bucuresti"],
+	"cityStateType": "Cultured",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "I guess you weren't here for the sprouts after all...",
+	"outerColor": [50, 50, 50],
+	"innerColor": [197, 55, 222],
+	"cities": ["Bucharest"]
+	},
+	{
+	"name": "Florence",
+	"adjective": ["Florentine"],
+	"cityStateType": "Cultured",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "And so the flower of Florence falls to barbaric hands...",
+	"outerColor": [50, 50, 50],
+	"innerColor": [197, 55, 222],
+	"cities": ["Florence"]
+	}
 ]
