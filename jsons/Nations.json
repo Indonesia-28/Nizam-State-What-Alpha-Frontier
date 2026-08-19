@@ -58,5 +58,53 @@
 		"outerColor": [50, 50, 50],
 		"innerColor": [55, 200, 222],
 		"cities": ["Kathmandu"]
+	},
+	{
+		"name": "Kuala Lumpur",
+		"adjective": ["KLite"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Today, the Malay people obey you, but do not think this is over...",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Kuala Lumpur"]
+	},
+	{
+		"name": "Milan",
+		"adjective": ["Milanese"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Milan"]
+	},
+	{
+		"name": "Monaco",
+		"adjective": ["Monegasque"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Monaco"]
+	},
+	{
+		"name": "Prague",
+		"adjective": ["Praguer", "Pragueite"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Prague"]
 	}
 ]
